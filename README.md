@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Soy Benjamín Alonso Uribe Andrade<br><br>Soy un **Estudiante de 4° Año de Ingeniería Civil en Informática** en la Universidad Austral de Chile (UACh). Me apasiona el desarrollo de software, la arquitectura de sistemas.<br><br>- 🎓 Educación: Ingeniería Civil en Informática (UACh)<br>- 🚀 Enfoque: Desarrollo Backend y Ingeniería de Software<br>---<br><br>## 🛠️ Tecnologías y Herramientas<br><br>### Lenguajes de Programación<br>- **C / C++**: Optimización, estructuras de datos avanzadas y manejo de hardware a bajo nivel.<br>- **Python**: Análisis de datos, scripting, automatización y web scraping.<br>- **TypeScript / JavaScript**: Desarrollo web moderno y aplicaciones full-stack.<br>- **Haskell**: Programación funcional y paradigmas avanzados.<br><br>### Frontend & Backend<br>- **React & Vite**: Construcción de interfaces de usuario rápidas, modulares y responsivas.<br>- **Node.js**: Desarrollo de servicios y APIs eficientes.<br><br>### Herramientas & Entornos<br>- **Git & GitHub**: Control de versiones, trabajo colaborativo y gestión de repositorios.<br>---<br>## 🔬 Proyectos Destacados<br><br>* **Modular News Scraper:** Un sistema robusto distribuido en múltiples módulos diseñado para la recolección, procesamiento y análisis automatizado de noticias web.<br>* **Telegrafo Digital (Arduino):** Desarrollo de un sistema de comunicación de extremo a extremo que implementa codificación/decodificación de código Morse y análisis de señales para laboratorios de comunicaciones.<br>* **Dashboard Clínico de Seguimiento:** Prototipo de software diseñado para la gestión, análisis de datos y seguimiento de tratamientos médicos de pacientes en entornos clínicos.<br><br>---<br>
 
-<!--
-**BenjaUribe/BenjaUribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BenjaUribe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BenjaUribe&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BenjaUribe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=BenjaUribe&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
